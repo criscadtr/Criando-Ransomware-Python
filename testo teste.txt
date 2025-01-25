@@ -1,0 +1,1 @@
+este texto vai aparecer legível caso esteja não criptografado
